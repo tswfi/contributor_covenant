@@ -80,6 +80,10 @@ languageCode = "el"
 languageName = "Español"
 languageCode = "es"
 
+[Languages.fi]
+languageName = "Finnish"
+languageCode = "fi"
+
 [Languages.fr]
 languageName = "Français"
 languageCode = "fr"
