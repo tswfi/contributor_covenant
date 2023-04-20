@@ -3,131 +3,88 @@ version = "2.1"
 aliases = ["/version/2/1"]
 +++
 
-# Contributor Covenant Code of Conduct
+# Yhteistyökumppanin käytännesäännöt
 
-## Our Pledge
+## Meidän lupauksemme
 
-We as members, contributors, and leaders pledge to make participation in our
-community a harassment-free experience for everyone, regardless of age, body
-size, visible or invisible disability, ethnicity, sex characteristics, gender
-identity and expression, level of experience, education, socio-economic status,
-nationality, personal appearance, race, caste, color, religion, or sexual
-identity and orientation.
+Me jäseninä, avustajina sekä johtajina lupaamme tehdä yhteisöön osallistumisesta häirintävapaan kokemuksen kaikille iästä, koosta, näkyvästä tai näkymättömästä vammasta, etnisyydestä, sukupuolesta, sukupuoli-identiteetistä, tavasta ilmaista sukupuolta, kokemuksen määrästä, koulutustaustasta, sosioekonomisesta asemasta, kansallisuudesta, ulkonäöstä, rodusta, luokasta, väristä, uskonnosta, seksuaali-identiteetistä tai -suuntautumisesta huolimatta.
 
-We pledge to act and interact in ways that contribute to an open, welcoming,
-diverse, inclusive, and healthy community.
+Me lupaamme käyttäytyä ja olla vuorovaikutuksessa tavoilla, jotka edistävät avointa, vieraanvaraista, monipuolista, inklusiivista sekä tervettä yhteisöä.
 
-## Our Standards
+## Meidän standardimme
 
-Examples of behavior that contributes to a positive environment for our
-community include:
+Esimerkkejä käyttäytymisestä, joka edistää positiivista ilmapiiriä yhteisössämme kuuluvat:
 
-* Demonstrating empathy and kindness toward other people
-* Being respectful of differing opinions, viewpoints, and experiences
-* Giving and gracefully accepting constructive feedback
-* Accepting responsibility and apologizing to those affected by our mistakes,
-  and learning from the experience
-* Focusing on what is best not just for us as individuals, but for the overall
-  community
+* Empatian ja ystävällisyyden osoittaminen muita ihmisiä kohtaan
+* Poikkeavien mielipiteiden, näkemysten ja kokemusten kunnioittaminen
+* Rakentavan palautteen antaminen ja sen kohteliaasti vastaanottaminen
+* Vastuunkanto ja anteeksipyytäminen niiltä, joihin virheemme vaikuttavat
+* Keskittyminen siihen, mikä ei palvele vain yksilöä, vaan yhteisöä kokonaisuutena
 
-Examples of unacceptable behavior include:
+Esimerkkejä sopimattomasta käytöksestä ovat:
 
-* The use of sexualized language or imagery, and sexual attention or advances of
-  any kind
-* Trolling, insulting or derogatory comments, and personal or political attacks
-* Public or private harassment
-* Publishing others' private information, such as a physical or email address,
-  without their explicit permission
-* Other conduct which could reasonably be considered inappropriate in a
-  professional setting
+* Seksuaalissävyttäisen kielen tai kuvien käyttö, ja seksuaalissävytteinen huomionhaku tai sen edistäminen millään tavalla
+* Trollaavat, loukkaavat tai halventavat kommentit, ja henkilökohtaiset tai poliittiset hyökkäykset
+* Julkinen tai yksityinen ahdistelu
+* Muiden yksityisten tietojen julkaisu, kuten postiosoitteen tai sähköpostin julkaisu, ilman henkilön nimenomaista lupaa
+* Muuta toimintaa, jota voidaan kohtuudella pitää sopimattomana ammattimaisessa asetuksessa
 
-## Enforcement Responsibilities
+## Toimeenpanovastuut
 
-Community leaders are responsible for clarifying and enforcing our standards of
-acceptable behavior and will take appropriate and fair corrective action in
-response to any behavior that they deem inappropriate, threatening, offensive,
-or harmful.
+Yhteisön johtajat ovat vastuussa hyväksyttävän käytöksen standardien selventämisestä sekä vahvistamisesta, ja ryhtyvät tarvittaessa asianmukaisiin ja oikeudenmukaisiin, korjaaviin toimenpiteisiin vastauksena mihin tahansa käytökseen, jota he pitävät sopimattomana, uhkaavana, loukkaavana tai haitallisena.
 
-Community leaders have the right and responsibility to remove, edit, or reject
-comments, commits, code, wiki edits, issues, and other contributions that are
-not aligned to this Code of Conduct, and will communicate reasons for moderation
-decisions when appropriate.
+Yhteisön johtajilla on oikeus ja vastuu poistaa, muokata tai hylätä kommentteja, sitoumuksia, koodia, wiki-muokkauksia, kontribuutioita ja muita avustuksia, jotka eivät vastaa näitä käytännesääntöjä, sekä ilmoittaa syyt moderointipäätöksiin tarvittaessa.
 
-## Scope
+## Laajuus
 
-This Code of Conduct applies within all community spaces, and also applies when
-an individual is officially representing the community in public spaces.
-Examples of representing our community include using an official e-mail address,
-posting via an official social media account, or acting as an appointed
-representative at an online or offline event.
+Nämä käytännesäännöt koskevat kaikkia yhteisön tiloja, myös yksilön virallisesti edustaessa yhteisöä julkisissa tiloissa. Esimerkkejä yhteisön edustamisesta sisältävät virallisen sähköpostiosoitteen käyttämistä, virallisen sosiaalisen median tilin kautta julkaisemista tai toimiessaan nimitettynä edustajana online- tai offline-tilaisuudessa.
 
-## Enforcement
+## Toimeenpano
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported to the community leaders responsible for enforcement at
-[INSERT CONTACT METHOD].
-All complaints will be reviewed and investigated promptly and fairly.
+Tapaukset loukkaavasta, häiritsevästä tai muuten sopimattomasta käyttäytymisestä ilmoitetaan toimeenpanosta vastaaville yhteisön johtajille (LISÄÄ YHTEYDENOTTOTAPA).
+Kaikki valitukset käsitellään ja tutkitaan nopeasti ja oikeudenmukaisesti.
 
-All community leaders are obligated to respect the privacy and security of the
-reporter of any incident.
+Kaikki yhteisön johtajat ovat velvollisia kunnioittamaan ilmoittajan yksityisyyttä ja turvallisuutta näissä tapauksissa.
 
-## Enforcement Guidelines
+## Toimeenpano-ohjeet
 
-Community leaders will follow these Community Impact Guidelines in determining
-the consequences for any action they deem in violation of this Code of Conduct:
+Yhteisön johtajat noudattavat näitä yhteisön vaikutuksen ohjeita määrittäessään seurauksia toimista, jotka he katsovat rikkovan näitä käytännesääntöjä:
 
-### 1. Correction
+### 1. Huomautus
 
-**Community Impact**: Use of inappropriate language or other behavior deemed
-unprofessional or unwelcome in the community.
+**Yhteisön vaikutus**: Sopimaton kielenkäyttö tai muu käytös katsotaan epäammattimaiseksi tai ei-tervetulleeksi yhteisöön.
 
-**Consequence**: A private, written warning from community leaders, providing
-clarity around the nature of the violation and an explanation of why the
-behavior was inappropriate. A public apology may be requested.
+**Seuraamus**: Yksityinen, kirjallinen varoitus yhteisön johtajilta, jossa rikkomuksen luonne ja sen sopimattomuus yhteisölle selvennetään. Julkista anteeksipyyntöä voidaan vaatia.
 
-### 2. Warning
+### 2. Varoitus
 
-**Community Impact**: A violation through a single incident or series of
-actions.
+**Yhteisön vaikutus**: Rikkomus yksittäisestä tai toistuvasta käytöksestä.
 
-**Consequence**: A warning with consequences for continued behavior. No
-interaction with the people involved, including unsolicited interaction with
-those enforcing the Code of Conduct, for a specified period of time. This
-includes avoiding interactions in community spaces as well as external channels
-like social media. Violating these terms may lead to a temporary or permanent
-ban.
+**Seuraamus**: Varoitus, jolla on seurauksia jatkuvasta käyttäytymisestä. Ei vuorovaikutusta tapaukseen liittyvien ihmisten kanssa, mukaan lukien ei-toivottu vuorovaikutus käytännesääntöjen toimeenpanosta vastanneiden kanssa, tietyn jakson ajan. Sisältäen vuorovaikutuksen yhteisön tiloissa sekä ulkoisissa kanavissa, kuten sosiaalisessa mediassa. Näiden ehtojen rikkominen voi johtaa väliaikaiseen tai pysyvään porttikieltoon.
 
-### 3. Temporary Ban
+### 3. Väliaikainen porttikielto
 
-**Community Impact**: A serious violation of community standards, including
-sustained inappropriate behavior.
+**Yhteisön vaikutus**: Yhteisön sääntöjen vakava, toistuva rikkominen, mukaan lukien jatkuva sopimaton käyttäytyminen.
 
-**Consequence**: A temporary ban from any sort of interaction or public
-communication with the community for a specified period of time. No public or
-private interaction with the people involved, including unsolicited interaction
-with those enforcing the Code of Conduct, is allowed during this period.
-Violating these terms may lead to a permanent ban.
+**Seuraamus**: Väliaikainen kielto kaikenlaisesta vuorovaikutuksesta tai julkisesta yhteydenpidosta yhteisön kanssa tietyn jakson ajan.  Vuorovaikutusta tapaukseen liittyvien ihmisten kanssa, mukaanlukien ei-toivottua vuorovaikutusta käytännesääntöjen toimeenpanneiden kanssa ei sallita tämän jakson aikana. Näiden ehtojen rikkominen voi johtaa pysyvään porttikieltoon.
 
-### 4. Permanent Ban
+### 4. Pysyvä porttikielto
 
-**Community Impact**: Demonstrating a pattern of violation of community
-standards, including sustained inappropriate behavior, harassment of an
-individual, or aggression toward or disparagement of classes of individuals.
+**Yhteisön vaikutus**: Toistuva yhteisön sääntöjen rikkominen, mukaan lukien jatkuva sopimaton käytös, yksilön häirintä, aggressio tai vähättely yksilöluokkia kohtaan.
 
-**Consequence**: A permanent ban from any sort of public interaction within the
-community.
+**Seuraamus**: Pysyvä porttikielto kaikesta julkisesta vuorovaikutuksesta yhteisössä.
 
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage],
-version 2.1, available at
+Nämä käytännesäännöt on käännetty [Contributor Covenant][homepage],
+versiosta 2.1, joka löytyy
 [https://www.contributor-covenant.org/version/2/1/code_of_conduct.html][v2.1].
 
-Community Impact Guidelines were inspired by
+Yhteisön vaikutusten suuntaviivoja inspiroi
 [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
 
-For answers to common questions about this code of conduct, see the FAQ at
-[https://www.contributor-covenant.org/faq][FAQ]. Translations are available at
+Vastauksia yleisiin kysymyksiin näistä käytännesäännöistä on usein kysytyissä kysymyksissä osoitteessa
+[https://www.contributor-covenant.org/faq][FAQ]. Käännökset löytyvät
 [https://www.contributor-covenant.org/translations][translations].
 
 [homepage]: https://www.contributor-covenant.org
